@@ -1,0 +1,6 @@
+a=input("enter the numbers")
+print(type(a))
+b=a.split(",")
+print(b)
+c=list(b)
+print(c)

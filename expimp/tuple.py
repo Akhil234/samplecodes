@@ -1,0 +1,5 @@
+n=int(input("enter the number"))
+b=list(n)
+a=tuple(b)
+c=max(tuple)
+print(c)
