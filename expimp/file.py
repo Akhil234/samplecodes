@@ -1,4 +1,3 @@
-a=input("enter file name")
-b=a.split(".")
-print(b)
-print(b[1])
+n=input("enter a file name")
+b=n.split('.')
+print(b[-1])
